@@ -1,5 +1,5 @@
 #include <iostream>
-// #include <pigpio.h>
+#include <pigpio.h>
 #include <functional>
 
 class PWMController {
