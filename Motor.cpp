@@ -2,6 +2,8 @@
 #include <pigpio.h>
 #include <functional>
 
+#include "gpioevent.h"
+
 class PWMController {
 private:
     int pin;
